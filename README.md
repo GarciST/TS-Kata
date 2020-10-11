@@ -7,4 +7,4 @@
   npm install
 ``
 
-3.- Run: `npm start YuourName`
+3.- Run: `npm start YourName`
