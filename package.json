@@ -7,8 +7,8 @@
   },
   "scripts": {
     "tslint": "tslint -c tslint.json src/**/*.ts",
-    "start": "tsc && node ./bin/init.js",
-    "test": "tsc && mocha --recursive ./test"
+    "start": "tsc && node ./dist/bin/init.js",
+    "test": "tsc && mocha --recursive ./dist/test"
   },
   "author": "Yor name",
   "license": "ISC",
