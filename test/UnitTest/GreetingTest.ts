@@ -1,7 +1,7 @@
 'use strict'
 
 import { expect } from 'chai';
-import { Greeting, Printer } from '../../src';
+import { Greeting, Printer } from '../../src/module';
 
 describe('Greeting Test', () => {
     it ('Should say Hello Wold!', () => {
